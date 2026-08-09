@@ -56,9 +56,10 @@ Then follow the build instructions for your platform.
 
 | Key | Action |
 |---|---|
-| A / Left Arrow | Move left |
-| D / Right Arrow | Move right |
-| Space | Jump |
+| W | Jump |
+| A | Move left |
+| D | Move right |
+| E | Shoot |
 
 ## Project Structure
 
