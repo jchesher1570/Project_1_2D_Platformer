@@ -35,22 +35,13 @@ This project involved setting up a C development environment for 2D game develop
 
 ## Screenshots
 
-_Add screenshots of the game here._
-
-```markdown
-![Gameplay](screenshots/gameplay.png)
-```
-
-## Building
-
-Clone the repository and build the project using the provided build system.
-
-```bash
-git clone <repository-url>
-cd <repository-name>
-```
-
-Then follow the build instructions for your platform.
+![Screenshots](images/screenshots/2d_platformer_start.png)
+![Screenshots](images/screenshots/few_enemies_2d_platformer.png)
+![Screenshots](images/screenshots/red_enemy_chase.png)
+![Screenshots](images/screenshots/moment_of_safety.png)
+![Screenshots](images/screenshots/one_bullet_fired.png)
+![Screenshots](images/screenshots/jump_action.png)
+![Screenshots](images/screenshots/many_bullets.png)
 
 ## Controls
 
