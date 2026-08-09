@@ -21,19 +21,6 @@ The project was developed from the ground up, including the core systems require
 - **GLSL** – Graphics shaders
 - **OpenGL** – Rendering
 
-## What I Learned
-
-This project involved setting up a C development environment for 2D game development and implementing several fundamental game-engine systems, including:
-
-- Designing a basic physics engine
-- Implementing collision detection and response
-- Creating a 2D rendering pipeline
-- Working with GLSL shaders
-- Developing an animation system
-- Integrating sound effects
-- Managing the game loop and real-time input
-
-
 ## Controls
 
 | Key | Action |
