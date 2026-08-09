@@ -48,7 +48,7 @@ The project was developed from the ground up, including the core systems require
 ├── CMakeLists.txt
 ├── config.ini
 └── README.md
-`
+```
 ## Screenshots
 
 ![Screenshots](images/screenshots/2d_platformer_start.png)
