@@ -20,7 +20,6 @@ The project was developed from the ground up, including the core systems require
 - **C** – Main programming language
 - **GLSL** – Graphics shaders
 - **OpenGL** – Rendering
-- **[Add libraries/frameworks here]** – Windowing, audio, input, etc.
 
 ## What I Learned
 
@@ -65,13 +64,18 @@ Then follow the build instructions for your platform.
 
 ```text
 .
-├── src/          # C source code
-├── shaders/      # GLSL shaders
-├── assets/       # Textures, sounds and other assets
-├── include/      # Header files
+├── build
+│   └── CMakeFiles
+├── engine_from_scratch 
+│   ├── src/          # C source code
+│   ├── shaders/      # GLSL shaders
+│   ├── assets/       # Textures, sounds and other assets
+│   └── config.ini
+├── include/          # Header files
+│   ├── KHR/
+│   ├── glad/
+│   └── linmath.h
+├── CMakeLists.txt
+├── config.ini
 └── README.md
 ```
-
-## License
-
-This project is for educational and personal development purposes.
