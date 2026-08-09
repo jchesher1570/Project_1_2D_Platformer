@@ -33,15 +33,6 @@ This project involved setting up a C development environment for 2D game develop
 - Integrating sound effects
 - Managing the game loop and real-time input
 
-## Screenshots
-
-![Screenshots](images/screenshots/2d_platformer_start.png)
-![Screenshots](images/screenshots/few_enemies_2d_platformer.png)
-![Screenshots](images/screenshots/red_enemy_chase.png)
-![Screenshots](images/screenshots/moment_of_safety.png)
-![Screenshots](images/screenshots/one_bullet_fired.png)
-![Screenshots](images/screenshots/jump_action.png)
-![Screenshots](images/screenshots/many_bullets.png)
 
 ## Controls
 
@@ -70,4 +61,13 @@ This project involved setting up a C development environment for 2D game develop
 ├── CMakeLists.txt
 ├── config.ini
 └── README.md
-```
+`
+## Screenshots
+
+![Screenshots](images/screenshots/2d_platformer_start.png)
+![Screenshots](images/screenshots/few_enemies_2d_platformer.png)
+![Screenshots](images/screenshots/red_enemy_chase.png)
+![Screenshots](images/screenshots/moment_of_safety.png)
+![Screenshots](images/screenshots/one_bullet_fired.png)
+![Screenshots](images/screenshots/jump_action.png)
+![Screenshots](images/screenshots/many_bullets.png)``
